@@ -1,0 +1,84 @@
+{
+    "user_details": [
+        {
+            "token": 4,
+            "Cost": 100,
+            "name": "Sheetal",
+            "vehicle_type": "bike",
+            "vehicle_number": "uk09",
+            "entry_time": "01:12:46"
+        },
+        {
+            "token": 3,
+            "Cost": 100,
+            "name": "Paras",
+            "vehicle_type": "bike",
+            "vehicle_number": "UP089",
+            "entry_time": "01:13:01"
+        },
+        {
+            "token": 3,
+            "Cost": 180,
+            "name": "Vijay",
+            "vehicle_type": "car",
+            "vehicle_number": "DL990",
+            "entry_time": "01:13:30"
+        },
+        {
+            "token": 2,
+            "Cost": 100,
+            "name": "Deepa",
+            "vehicle_type": "bike",
+            "vehicle_number": "DL2223",
+            "entry_time": "01:14:02"
+        },
+        {
+            "token": 3,
+            "Cost": 250,
+            "name": "Yamini",
+            "vehicle_type": "bus",
+            "vehicle_number": "MH0999",
+            "entry_time": "01:14:21"
+        },
+        {
+            "token": 1,
+            "Cost": 100,
+            "name": "megha",
+            "vehicle_type": "bike",
+            "vehicle_number": "uk23",
+            "entry_time": "01:14:32"
+        },
+        {
+            "token": 2,
+            "Cost": 180,
+            "name": "bharti",
+            "vehicle_type": "car",
+            "vehicle_number": "BH12323",
+            "entry_time": "01:14:44"
+        },
+        {
+            "token": 1,
+            "Cost": 180,
+            "name": "navya",
+            "vehicle_type": "car",
+            "vehicle_number": "KA3434",
+            "entry_time": "01:15:01"
+        },
+        {
+            "token": 2,
+            "Cost": 250,
+            "name": "Rahul",
+            "vehicle_type": "bus",
+            "vehicle_number": "PB8343",
+            "entry_time": "01:15:44"
+        },
+        {
+            "token": 1,
+            "Cost": 250,
+            "name": "Kanha",
+            "vehicle_type": "bus",
+            "vehicle_number": "uki34",
+            "entry_time": "01:16:06"
+        }
+    ]
+}
